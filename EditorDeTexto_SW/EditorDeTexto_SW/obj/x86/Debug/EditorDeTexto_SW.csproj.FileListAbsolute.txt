@@ -1,0 +1,16 @@
+c:\users\xt7095\documents\visual studio 2010\Projects\EditorDeTexto_SW\EditorDeTexto_SW\obj\x86\Debug\EditorDeTexto_SW.Properties.Resources.resources
+c:\users\xt7095\documents\visual studio 2010\Projects\EditorDeTexto_SW\EditorDeTexto_SW\obj\x86\Debug\EditorDeTexto_SW.csproj.GenerateResource.Cache
+c:\users\xt7095\documents\visual studio 2010\Projects\EditorDeTexto_SW\EditorDeTexto_SW\obj\x86\Debug\EditorDeTexto_SW.EditorTMain.resources
+c:\users\xt7095\documents\visual studio 2010\Projects\EditorDeTexto_SW\EditorDeTexto_SW\bin\Debug\EditorDeTexto_SW.exe
+c:\users\xt7095\documents\visual studio 2010\Projects\EditorDeTexto_SW\EditorDeTexto_SW\bin\Debug\EditorDeTexto_SW.pdb
+c:\users\xt7095\documents\visual studio 2010\Projects\EditorDeTexto_SW\EditorDeTexto_SW\obj\x86\Debug\EditorDeTexto_SW.exe
+c:\users\xt7095\documents\visual studio 2010\Projects\EditorDeTexto_SW\EditorDeTexto_SW\obj\x86\Debug\EditorDeTexto_SW.pdb
+c:\users\xt7095\documents\visual studio 2010\Projects\EditorDeTexto_SW\EditorDeTexto_SW\obj\x86\Debug\EditorDeTexto_SW.Nostros.resources
+D:\Documentos\Maestria\EditorDeTexto_SW\EditorDeTexto_SW\obj\x86\Debug\EditorDeTexto_SW.exe
+D:\Documentos\Maestria\EditorDeTexto_SW\EditorDeTexto_SW\obj\x86\Debug\EditorDeTexto_SW.pdb
+D:\Documentos\Maestria\EditorDeTexto_SW\EditorDeTexto_SW\bin\Debug\EditorDeTexto_SW.exe
+D:\Documentos\Maestria\EditorDeTexto_SW\EditorDeTexto_SW\bin\Debug\EditorDeTexto_SW.pdb
+D:\Documentos\Maestria\EditorDeTexto_SW\EditorDeTexto_SW\obj\x86\Debug\EditorDeTexto_SW.EditorTMain.resources
+D:\Documentos\Maestria\EditorDeTexto_SW\EditorDeTexto_SW\obj\x86\Debug\EditorDeTexto_SW.Nostros.resources
+D:\Documentos\Maestria\EditorDeTexto_SW\EditorDeTexto_SW\obj\x86\Debug\EditorDeTexto_SW.Properties.Resources.resources
+D:\Documentos\Maestria\EditorDeTexto_SW\EditorDeTexto_SW\obj\x86\Debug\EditorDeTexto_SW.csproj.GenerateResource.Cache
